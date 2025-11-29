@@ -4,16 +4,16 @@
 
 Deep Learning–based Bird vs Drone classification and optional YOLOv11 object detection.
 
-## 📌 Overview
+## Overview
 This project aims to identify aerial objects (Bird or Drone) using image classification and real-time detection. It uses a custom CNN, transfer learning models, and optionally YOLOv11. A Streamlit app is included for deployment.
 
-## 🚀 Features
+## Features
 - Image classification (Bird vs Drone)
 - YOLOv11 object detection (optional)
 - Data preprocessing & augmentation
 - Streamlit UI for deployment
 
-## 🧠 Skills Learned
+## Skills Learned
 - Deep Learning  
 - Computer Vision  
 - Image Classification & Detection  
@@ -33,7 +33,7 @@ project/
 
 ---
 
-## 🧩 Methodology
+## Methodology
 ### 1. **Data Preparation**
 - Image cleaning  
 - Augmentation (flip, rotation, brightness, zoom)
@@ -53,14 +53,14 @@ Streamlit dashboard for easy use.
 
 ---
 
-## 🌟 What This Project Does
+## What This Project Does
 - Learns to classify images as Bird or Drone 
 - Detects objects in videos/images using YOLOv11
 - Lets you upload images using a friendly Streamlit interface  
 
 ---
 
-## 📦 Requirements
+## Requirements
 Install everything using:
 
 ```bash
